@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dxnlondon.ioc2u.com	TRUE	/	FALSE	1999999999	SITE	distributor%5FID=392245
+dxnlondon.ioc2u.com	TRUE	/	FALSE	1999999999	ASPSESSIONIDCQDRBBTR	IIGNGBJBEJNEMAEJILBMGBOC
+
